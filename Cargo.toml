@@ -5,11 +5,7 @@ edition = "2021"
 authors = ["liutao.rs <liutao.rs@bytedance.com>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-description = ""
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+description = "execute in the shell"
 
 [profile.release]
 opt-level = 3
